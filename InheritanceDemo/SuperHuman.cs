@@ -6,7 +6,7 @@ using System.Text;
 
 namespace InheritanceDemo
 {
-    // <summary>
+    /// <summary>
     /// This is the SuperHuman class.
     /// </summary>
     public class SuperHuman : Human

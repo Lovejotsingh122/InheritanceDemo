@@ -5,9 +5,8 @@ using System.Text;
 
 
 
-namespace COMP123_S2017_Lesson9B
-{
-
+namespace InheritanceDemo
+{ 
     /// <summary>
     /// This is the Power class which will be used as a Data type
     /// </summary>
